@@ -44,7 +44,7 @@ export default function App() {
     {
       name: "Blog Platform",
       description: "Full-stack blog app with authentication and Appwrite backend.",
-      link: "#",
+      link: "https://myblog-9xcwlt7wl-sufianmahmoods-projects.vercel.app/",
     },
   ];
 
