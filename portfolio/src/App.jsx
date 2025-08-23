@@ -78,12 +78,6 @@ export default function App() {
   <div className="nav-left">
     <a href="#home" className="nav-logo">My Portfolio</a>
   </div>
-  <div className="nav-right">
-    <a href="#about">About</a>
-    <a href="#skills">Skills</a>
-    <a href="#projects">Projects</a>
-    <a href="#contact">Contact</a>
-  </div>
 </nav>
 
       {/* Hero Section */}
